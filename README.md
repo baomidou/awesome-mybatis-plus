@@ -50,7 +50,6 @@
 - [Crab](https://gitee.com/atcrab/crab)：WEB 极速开发框架
 - [KangarooAdmin](https://git.oschina.net/zhougaojun/KangarooAdmin)：轻量级权限管理框架
 - [iBase4J](https://git.oschina.net/iBase4J/iBase4J)：Java 分布式快速开发基础平台
-- [framework](https://git.oschina.net/sunhan521/framework)：后台管理框架
 - [BMS](https://git.oschina.net/eric.xu/BMS)：基础权限开发框架
 - [spring-shiro-training](https://git.oschina.net/wangzhixuan/spring-shiro-training)：简单实用的权限脚手架
 - [center](https://git.oschina.net/willenfoo/center)：系统管理中心系统
@@ -59,9 +58,7 @@
 - [guns](http://git.oschina.net/naan1993/guns)：guns 后台管理系统
 - [maple](https://git.oschina.net/blind/maple)：maple 企业信息化的开发基础平台
 - [jeeweb-mybatis](https://gitee.com/dataact/jeeweb)：JeeWeb 敏捷开发平台
-- [youngcms](https://gitee.com/fumiao/youngcms)：CMS 平台
 - [king-admin](https://github.com/oukingtim/king-admin)：前后端分离的基础权限管理后台
-- [jeefast](https://gitee.com/theodo/jeefast)：前后端分离 Vue 快速开发平台
 - [bing-upms](https://gitee.com/xiaobingby/bing-upms)：SpringBoot + Shiro +FreeMarker 制作的通用权限管理
 - [slife](https://gitee.com/jamen/slife)：SpringBoot 企业级快速开发脚手架
 - [pig](https://gitee.com/log4j/pig)：微服务 Spring Cloud 架构
@@ -73,26 +70,29 @@
 - [renren-security](https://gitee.com/renrenio/renren-security)：人人权限系统
 - [freeter-admin](https://gitee.com/xcOschina/freeter-admin)：飞特后台管理系统
 - [vblog](https://gitee.com/seu-lfh/vblog)：VBlog 博客系统
-- [jiiiiiin-security](https://github.com/Jiiiiiin/jiiiiiin-security)：jiiiiiin 权限系统
-- [hdw-dubbo](https://github.com/tumao2/hdw-dubbo)：HDW 快速开发平台
-- [pybbs](https://github.com/tomoya92/pybbs)：更好用的 Java 语言社区(论坛)
-- [SmallBun](https://gitee.com/leshalv/smallbun)：SmallBun 企业级开发脚手架
+- [hdw-dubbo](https://github.com/tumao2/hdw-dubbo)：HDW快速开发平台
+- [pybbs](https://github.com/tomoya92/pybbs)：更好用的Java语言社区(论坛)
+- [SmallBun](https://gitee.com/leshalv/smallbun)：SmallBun企业级开发脚手架
 - [webplus](https://gitee.com/imsroot/webplus)：综合开发平台
 - [x-boot](https://github.com/Exrick/x-boot)：VUE 前后端分离开发平台
-- [nice-blog-sys](https://gitee.com/KiWiPeach/nice-blog-sys)：基于 SpirngBoot 开发，好看的个人博客
+- [nice-blog-sys](https://gitee.com/KiWiPeach/nice-blog-sys)：基于SpirngBoot开发，好看的个人博客
 - [Diboot](https://github.com/dibo-software/diboot-v2)：轻代码开发平台
-- [tyboot](https://gitee.com/magintursh/tyboot)：基于 SpringBoot 的快速开发脚手架
-- [ac-blog](https://github.com/memo012/ac-blog) ac 博客网站
-- [spider-flow](https://gitee.com/jmxd/spider-flow) 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫
-- [goodskill](https://github.com/techa03/goodsKill)：基于 Dubbo + SpringBoot 搭建的秒杀系统
-- [SpringBoot_MyBatisPlus](https://github.com/JoeyBling/SpringBoot_MyBatisPlus)：SpringBoot 集成[MyBatisPlus](https://github.com/baomidou/mybatis-plus)
+- [tyboot](https://gitee.com/magintursh/tyboot)：基于SpringBoot的快速开发脚手架
+- [ac-blog](https://github.com/memo012/ac-blog)：ac博客网站
+- [spider-flow](https://gitee.com/jmxd/spider-flow)：新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫
+- [goodskill](https://github.com/techa03/goodsKill)：基于Dubbo + SpringBoot搭建的秒杀系统
+- [SpringBoot_MyBatisPlus](https://github.com/JoeyBling/SpringBoot_MyBatisPlus)：SpringBoot集成[MyBatisPlus](https://github.com/baomidou/mybatis-plus)
 - [bootplus](https://github.com/JoeyBling/bootplus)：基于`SpringBoot + Shiro + MyBatisPlus`的权限管理框架
-- [Dice](https://github.com/bihell/Dice)：一个 Vue 2.x 和 SpringBoot 全家桶开发的前后端分离的个人内容管理系统：「博客」、「权限管理」、「代码段」、「媒体库」等。
-- [thyme-boot](https://gitee.com/thyme-boot/thyme-boot)：基于 SpringBoot+Layui+Vue 的快速后台开发框架
-- [zuihou-admin-cloud](https://gitee.com/zuihou111/zuihou-admin-cloud)：基于 SpringCloud 的 SaaS 微服务脚手架
-- [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui)：基于 mybatis-plus-generator 的图形化交互式代码生成工具
-- [zealsay](https://docs.zealsay.com)：基于 spring boot + nuxt 服务端渲染的前后端分离快速开发脚手架
-- [ballcat](https://github.com/Hccake/ballcat)：😸 基于 Spring Boot + Ant Design Vue 的快速开发脚手架
+- [Dice](https://github.com/bihell/Dice)：一个Vue 2.x 和 SpringBoot 全家桶开发的前后端分离的个人内容管理系统：「博客」、「权限管理」、「代码段」、「媒体库」等。
+- [thyme-boot](https://gitee.com/thyme-boot/thyme-boot)：基于SpringBoot+Layui+Vue的快速后台开发框架
+- [zuihou-admin-cloud](https://gitee.com/zuihou111/zuihou-admin-cloud)：基于SpringCloud的SaaS微服务脚手架
+- [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui)：基于mybatis-plus-generator的图形化交互式代码生成工具
+- [zealsay](https://docs.zealsay.com)：基于spring boot + nuxt服务端渲染的前后端分离快速开发脚手架
+- [ballcat](https://github.com/Hccake/ballcat)：😸基于 Spring Boot + Ant Design Vue 的快速开发脚手架
+- [tropical-fish](https://github.com/gnanquanmama/tropical-fish)：基于 Spring Boot + Mybatis-Plus 的快速开发脚手架
+- [J2eeFAST](https://gitee.com/zhouhuanOGP/J2EEFAST)：J2eeFAST 开源平台
+- [MateCloud](https://github.com/matevip/matecloud): Spring Cloud Alibaba微服务＋VUE快速脚手架，让你只专注于业务
+- [OPSLI](https://github.com/hiparker/opsli-boot): OPSLI 快速开发平台
 
 ## Who Using MyBatis-Plus
 
@@ -107,7 +107,7 @@
 - 锦途停车服务（天津）有限公司
 - 浙江左中右电动汽车服务有限公司
 - 迪斯马森科技有限公司
-- 成都好玩 123 科技有限公司
+- 成都好玩123科技有限公司
 - 深圳华云声信息技术有限公司
 - 昆明万德科技有限公司
 - 浙江华坤道威
@@ -180,6 +180,10 @@
 - 上海御繁信息技术有限公司
 - 上海谆龙科技有限公司
 - 北京加菲猫科技有限公司
+- 北京大飞网络技术有限公司
+- 北京道天地科技有限公司
+- 西安荣峰软件科技有限公司
+- 中铁第四勘察设计院集团有限公司
 
 ## License
 
