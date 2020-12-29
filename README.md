@@ -86,7 +86,7 @@
 - [bootplus](https://github.com/JoeyBling/bootplus)：基于`SpringBoot + Shiro + MyBatisPlus`的权限管理框架
 - [Dice](https://github.com/bihell/Dice)：一个Vue 2.x 和 SpringBoot 全家桶开发的前后端分离的个人内容管理系统：「博客」、「权限管理」、「代码段」、「媒体库」等。
 - [thyme-boot](https://gitee.com/thyme-boot/thyme-boot)：基于SpringBoot+Layui+Vue的快速后台开发框架
-- [zuihou-admin-cloud](https://gitee.com/zuihou111/zuihou-admin-cloud)：基于SpringCloud的SaaS微服务脚手架
+- [lamp-cloud](https://github.com/zuihou/lamp-cloud)：基于SpringCloud的微服务脚手架,可配置SaaS模式，含单体版 
 - [mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui)：基于mybatis-plus-generator的图形化交互式代码生成工具
 - [zealsay](https://docs.zealsay.com)：基于spring boot + nuxt服务端渲染的前后端分离快速开发脚手架
 - [ballcat](https://github.com/Hccake/ballcat)：😸基于 Spring Boot + Ant Design Vue 的快速开发脚手架
