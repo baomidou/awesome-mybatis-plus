@@ -42,7 +42,7 @@
 
 - [MyBatis-Plus 入门 - 视频教程 - 慕课网](https://www.imooc.com/learn/1130)
 - [MyBatis-Plus 进阶 - 视频教程 - 慕课网](https://www.imooc.com/learn/1171)
-- [MyBatis-Plus + SpringBoot实现简单权限管理](https://www.imooc.com/learn/1294)
+- [MyBatis-Plus + SpringBoot实现简单权限管理 - 视频教程 - 慕课网](https://www.imooc.com/learn/1294)
 
 ## Projects Using MyBatis-Plus
 
