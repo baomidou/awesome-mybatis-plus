@@ -94,6 +94,7 @@
 - [J2eeFAST](https://gitee.com/zhouhuanOGP/J2EEFAST)：J2eeFAST 开源平台
 - [MateCloud](https://github.com/matevip/matecloud): Spring Cloud Alibaba微服务＋VUE快速脚手架，让你只专注于业务
 - [OPSLI](https://github.com/hiparker/opsli-boot): OPSLI 快速开发平台
+- [mogu_blog](https://github.com/moxi624/mogu_blog_v2): 蘑菇博客
 
 ## Who Using MyBatis-Plus
 
