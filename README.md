@@ -19,8 +19,8 @@
 
 ### Official Resources
 
-- [Docs - Official Guide](https://mybatis.plus/guide/)
-- [Docs - Official Guide (China Mirror)](https://baomidou.com/guide/)
+- [Docs - Official Guide](https://baomidou.com)
+- [Docs - Official Guide (China Mirror)](https://baomidou.com)
 - [Docs - Config Reference](https://mybatis.plus/config/)
 - [Docs - Config Reference (China Mirror)](https://baomidou.com/config/)
 - [Docs - GitHub Repo](https://github.com/baomidou/mybatis-plus)
