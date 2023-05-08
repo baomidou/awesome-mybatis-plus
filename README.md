@@ -95,6 +95,7 @@
 - [MateCloud](https://github.com/matevip/matecloud): Spring Cloud Alibaba微服务＋VUE快速脚手架，让你只专注于业务
 - [OPSLI](https://github.com/hiparker/opsli-boot): OPSLI 快速开发平台
 - [mogu_blog](https://github.com/moxi624/mogu_blog_v2): 蘑菇博客
+- [paicoding](https://github.com/itwanger/paicoding): 技术派，一款好用又强大的开源社区
 
 ## Who Using MyBatis-Plus
 
