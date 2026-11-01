@@ -11,6 +11,7 @@
     - [Examples](#examples)
     - [Blog Posts](#blog-posts)
     - [Tutorials](#tutorials)
+    - [IDE Plugins](#ide-plugins)
   - [Projects Using MyBatis-Plus](#projects-using-mybatis-plus)
   - [Who Using MyBatis-Plus](#who-using-mybatis-plus)
   - [License](#license)
@@ -41,6 +42,13 @@
 - [MyBatis-Plus 入门 - 视频教程 - 慕课网](https://www.imooc.com/learn/1130)
 - [MyBatis-Plus 进阶 - 视频教程 - 慕课网](https://www.imooc.com/learn/1171)
 - [MyBatis-Plus + SpringBoot实现简单权限管理 - 视频教程 - 慕课网](https://www.imooc.com/learn/1294)
+
+### IDE Plugins
+
+- [SQL Visualizer](https://github.com/SongRenShuo/mybatis-plus-sql-visualizer)（[Gitee](https://gitee.com/songrenshuo/mybatis-plus-sql-visualizer)、[官网](https://sql-visualizer.jvtools.cn/)）：MyBatis / MyBatis-Plus / JPA 的 SQL 预览、运行期日志还原为完整 SQL、CRUD 生成、EXPLAIN 执行计划与内置 MCP Server
+- [MyBatisX](https://github.com/baomidou/MybatisX)：baomidou 官方 IntelliJ IDEA 插件，支持 mapper 与 XML 双向跳转、代码生成
+- [MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro)：提供 mapper/XML 代码提示、校验与生成（部分功能免费，完整功能需付费授权）
+- [MyBatis Log Free](https://github.com/starxg/mybatis-log-plugin-free)：将 mybatis 控制台日志还原为完整可执行的 SQL
 
 ## Projects Using MyBatis-Plus
 
